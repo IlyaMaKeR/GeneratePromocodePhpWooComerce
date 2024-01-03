@@ -13,7 +13,7 @@ if ( ! function_exists( 'form_stock' ) ) {
         echo '<div class="gray-box stock-form-background-box">
   <div class="col-full gray-close-box">
   
-  <div class="double-gray-box image-form-box" style="background: url(https://stoewer.ru/wp-content/themes/storefront/assets/images/pana.svg); height: 342px; background-size: 100% 100%; background-position: center; background-repeat: no-repeat;"></div>
+  <div class="double-gray-box image-form-box" style="background: url(UR_URL); height: 342px; background-size: 100% 100%; background-position: center; background-repeat: no-repeat;"></div>
   
   <div class="double-gray-box form-stock-box">
   <div class="form-title">ДАРИМ СКИДКУ 1000₽ ЗА ПОДПИСКУ</div>
